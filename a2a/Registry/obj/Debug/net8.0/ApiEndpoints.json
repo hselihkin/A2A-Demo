@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "Registry.Controllers.RegisterController",
+    "Method": "GetAgents",
+    "RelativePath": ".well-known/agents.json",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Registry.Controllers.RegisterController",
+    "Method": "Deregister",
+    "RelativePath": ".well-known/deregister",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Registry.Controllers.Request",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Registry.Controllers.RegisterController",
+    "Method": "Register",
+    "RelativePath": ".well-known/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "agent",
+        "Type": "A2A.Models.AgentCard",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Registry.Controllers.TokenController",
+    "Method": "RequestSignup",
+    "RelativePath": "signup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Registry.Controllers.Request",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Registry.Controllers.TokenController",
+    "Method": "ConfirmSignup",
+    "RelativePath": "signup/confirm",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Registry.Controllers.Request",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

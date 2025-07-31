@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>289aabc8-5a91-42a1-83f8-9c88683d7f1b</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="a2a-net.Client" Version="0.8.0" />
+    <PackageReference Include="a2a-net.Client.Http" Version="0.8.0" />
+    <PackageReference Include="a2a-net.Client.WebSocket" Version="0.8.0" />
+    <PackageReference Include="a2a-net.Server.AspNetCore" Version="0.8.0" />
+    <PackageReference Include="a2a-net.Server.Infrastructure.DistributedCache" Version="0.8.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="6.0.1" />
+    <PackageReference Include="Spectre.Console" Version="0.50.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.12.0" />
+  </ItemGroup>
+
+</Project>

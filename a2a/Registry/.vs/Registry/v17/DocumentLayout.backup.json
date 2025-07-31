@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shusrith.s\\source\\repos\\a2a\\Registry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6E8063-1678-423B-82BD-0572C16CB7E9}|Registry.csproj|c:\\users\\shusrith.s\\source\\repos\\a2a\\registry\\middleware\\authmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6E8063-1678-423B-82BD-0572C16CB7E9}|Registry.csproj|solutionrelative:middleware\\authmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6E8063-1678-423B-82BD-0572C16CB7E9}|Registry.csproj|c:\\users\\shusrith.s\\source\\repos\\a2a\\registry\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6E8063-1678-423B-82BD-0572C16CB7E9}|Registry.csproj|solutionrelative:controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6E8063-1678-423B-82BD-0572C16CB7E9}|Registry.csproj|c:\\users\\shusrith.s\\source\\repos\\a2a\\registry\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE6E8063-1678-423B-82BD-0572C16CB7E9}|Registry.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6E8063-1678-423B-82BD-0572C16CB7E9}|Registry.csproj|c:\\users\\shusrith.s\\source\\repos\\a2a\\registry\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE6E8063-1678-423B-82BD-0572C16CB7E9}|Registry.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6E8063-1678-423B-82BD-0572C16CB7E9}|Registry.csproj|c:\\users\\shusrith.s\\source\\repos\\a2a\\registry\\models\\apikey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6E8063-1678-423B-82BD-0572C16CB7E9}|Registry.csproj|solutionrelative:models\\apikey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6E8063-1678-423B-82BD-0572C16CB7E9}|Registry.csproj|c:\\users\\shusrith.s\\source\\repos\\a2a\\registry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6E8063-1678-423B-82BD-0572C16CB7E9}|Registry.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6E8063-1678-423B-82BD-0572C16CB7E9}|Registry.csproj|c:\\users\\shusrith.s\\source\\repos\\a2a\\registry\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6E8063-1678-423B-82BD-0572C16CB7E9}|Registry.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6E8063-1678-423B-82BD-0572C16CB7E9}|Registry.csproj|c:\\users\\shusrith.s\\source\\repos\\a2a\\registry\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6E8063-1678-423B-82BD-0572C16CB7E9}|Registry.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6E8063-1678-423B-82BD-0572C16CB7E9}|Registry.csproj|c:\\users\\shusrith.s\\source\\repos\\a2a\\registry\\services\\statedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6E8063-1678-423B-82BD-0572C16CB7E9}|Registry.csproj|solutionrelative:services\\statedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6E8063-1678-423B-82BD-0572C16CB7E9}|Registry.csproj|c:\\users\\shusrith.s\\source\\repos\\a2a\\registry\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6E8063-1678-423B-82BD-0572C16CB7E9}|Registry.csproj|solutionrelative:services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shusrith.s\\source\\repos\\a2a\\Registry\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\shusrith.s\\source\\repos\\a2a\\Registry\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-23T05:15:14.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\shusrith.s\\source\\repos\\a2a\\Registry\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\shusrith.s\\source\\repos\\a2a\\Registry\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T06:25:31.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\shusrith.s\\source\\repos\\a2a\\Registry\\Middleware\\AuthMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\AuthMiddleware.cs",
+              "ToolTip": "C:\\Users\\shusrith.s\\source\\repos\\a2a\\Registry\\Middleware\\AuthMiddleware.cs",
+              "RelativeToolTip": "Middleware\\AuthMiddleware.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:25:26.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\shusrith.s\\source\\repos\\a2a\\Registry\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\shusrith.s\\source\\repos\\a2a\\Registry\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:14:14.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\shusrith.s\\source\\repos\\a2a\\Registry\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Services\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\shusrith.s\\source\\repos\\a2a\\Registry\\Services\\ITokenService.cs",
+              "RelativeToolTip": "Services\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:12:51.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiKey.cs",
+              "DocumentMoniker": "C:\\Users\\shusrith.s\\source\\repos\\a2a\\Registry\\Models\\ApiKey.cs",
+              "RelativeDocumentMoniker": "Models\\ApiKey.cs",
+              "ToolTip": "C:\\Users\\shusrith.s\\source\\repos\\a2a\\Registry\\Models\\ApiKey.cs",
+              "RelativeToolTip": "Models\\ApiKey.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwDsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:07:07.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\shusrith.s\\source\\repos\\a2a\\Registry\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\shusrith.s\\source\\repos\\a2a\\Registry\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:25:02.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shusrith.s\\source\\repos\\a2a\\Registry\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\shusrith.s\\source\\repos\\a2a\\Registry\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:24:04.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StateDbService.cs",
+              "DocumentMoniker": "C:\\Users\\shusrith.s\\source\\repos\\a2a\\Registry\\Services\\StateDbService.cs",
+              "RelativeDocumentMoniker": "Services\\StateDbService.cs",
+              "ToolTip": "C:\\Users\\shusrith.s\\source\\repos\\a2a\\Registry\\Services\\StateDbService.cs",
+              "RelativeToolTip": "Services\\StateDbService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:39:49.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shusrith.s\\source\\repos\\a2a\\Registry\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shusrith.s\\source\\repos\\a2a\\Registry\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:24:25.945Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

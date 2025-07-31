@@ -1,0 +1,18 @@
+{
+  "profiles": {
+    "Synchronous client": {
+      "commandName": "Project",
+      "commandLineArgs": "--Server http://localhost:7073 --PushNotificationClient http://localhost:5001",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    },
+    "Streaming client": {
+      "commandName": "Project",
+      "commandLineArgs": "--Server http://localhost:7073 --PushNotificationClient http://localhost:5001 --streaming",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

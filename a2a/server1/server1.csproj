@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>30ee0ed4-1c24-480d-a953-be20bb48ce1d</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="a2a-net.Client" Version="0.8.0" />
+    <PackageReference Include="a2a-net.Client.Http" Version="0.8.0" />
+    <PackageReference Include="a2a-net.Client.WebSocket" Version="0.8.0" />
+    <PackageReference Include="a2a-net.Server.AspNetCore" Version="0.8.0" />
+    <PackageReference Include="a2a-net.Server.Infrastructure.DistributedCache" Version="0.8.0" />
+    <PackageReference Include="Azure.AI.OpenAI" Version="2.1.0" />
+    <PackageReference Include="Azure.Core" Version="1.46.2" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="6.0.1" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.12.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="NewFolder\" />
+  </ItemGroup>
+
+</Project>
